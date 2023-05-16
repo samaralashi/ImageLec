@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427658536794",
+    "project_id": "image-lec",
+    "storage_bucket": "image-lec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427658536794:android:aaa94c1503ca6bbd26f563",
+        "android_client_info": {
+          "package_name": "com.example.imagelec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427658536794-fsl5uejpug61b0ieiqi0nhmk34j513vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zozk1oxxMwzaUzpym_gucylkKiPgv_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427658536794-fsl5uejpug61b0ieiqi0nhmk34j513vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
